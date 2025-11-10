@@ -1,0 +1,6 @@
+data/
+*.log
+*.zip
+*.tar.gz
+.venv/
+__pycache__/
