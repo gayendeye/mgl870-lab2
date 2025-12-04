@@ -16,7 +16,7 @@ Analyse de logs BGL et HDFS pour la détection d'anomalies avec des modèles d'a
 ## 💻 Installation
 ```bash
 # Cloner le dépôt
-git clone [https://github.com/votre-utilisateur/mgl870-lab2.git](https://github.com/votre-utilisateur/mgl870-lab2.git)
+git clone [https://github.com/votre-utilisateur/mgl870-lab2.git](https://github.com/gayendeye/mgl870-lab2.git)
 cd mgl870-lab2
 
 # Créer l'environnement
